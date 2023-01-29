@@ -1,0 +1,26 @@
+stash@{0}: WIP on master: 62d4798 Merge branch 'dev'
+
+[1mdiff --git a/s1 b/s1[m
+[1mindex 2f06aaa..f54756a 100644[m
+[1m--- a/s1[m
+[1m+++ b/s1[m
+[36m@@ -12,4 +12,3 @@[m [mports:[m
+ 1:[30][m
+ 2:[40][m
+ 3:[10,20][m
+[31m-auth_server: 10.30.3.3[m
+stash@{1}: WIP on master: 62d4798 Merge branch 'dev'
+
+[1mdiff --git a/s1 b/s1[m
+[1mindex 2f06aaa..8a7ba3b 100644[m
+[1m--- a/s1[m
+[1m+++ b/s1[m
+[36m@@ -8,6 +8,8 @@[m [mvlans[m
+ id:10[m
+ blue:[m
+ id:20[m
+[32m+[m[32mYELLOW:[m
+[32m+[m[32mid:30[m
+ ports:[m
+ 1:[30][m
+ 2:[40][m
