@@ -1,12 +1,11 @@
-mgmtip: 10.0.0.1
-sdn controller: 10.20.2.2
-vlanse
-GREEN:
+mgm_ip:10.20.2.2
+vlans
+PINK:
 id:10
 blue:
 id:20
 ports:
-1:[10]
-2:[20]
+1:[30]
+2:[40]
 3:[10,20]
 auth_server: 10.30.3.3
