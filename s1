@@ -1,12 +1,11 @@
-mgmtip: 10.0.0.1
+mgmtip: 20.0.3.2
 sdn controller: 10.20.2.2
 vlans:
-red:
+ORANGE
 id:10
 blue:
 id:20
 ports:
 1:[20]
-2:[10]
 3:[10,20]
 auth_server: 10.30.3.3
